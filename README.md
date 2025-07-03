@@ -29,7 +29,7 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 - [🧬 Breast Cancer Prediction (**In Progress**)](https://github.com/lozanogangelicads/breast-cancer-prediction)  
   Rebuilding a model from my HarvardX coursework using logistic regression and random forests to classify breast cancer (benign vs malignant) from clinical data. Implements PCA, scaling, and model tuning in R with `dslabs`.
 
-- 🧠 **Large Language Model NLP Projects** (To be published)  
+- 🧠 **Large Language Model NLP Projects**
   Built text analysis and recommendation systems using LLMs and clustering algorithms. Projects include customer behavior modeling and unstructured text mining with Python, Tableau, and Scikit-learn.
 
 ---
@@ -52,6 +52,18 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 
 ---
 
+## 📚 Relevant Coursework
+
+- Applied Machine Learning  
+- Intro to Statistical Modeling  
+- Data Manipulation in R  
+- Data Science for Business  
+- Data and Database Management (SQL + MySQL)  
+- Python Programming  
+- Ethics of AI in Healthcare  
+- NLP, LLMs, & Recommendation Systems (Capstone)
+
+---
 ## 📫 Contact Me
 
 📍 Wethersfield, CT  
