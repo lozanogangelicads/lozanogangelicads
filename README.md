@@ -14,7 +14,7 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 
 ## 📊 Technical Projects
 
-- [🍄 Mushroom Classification with Neural Networks](https://github.com/lozanogangelicads/Mushroom-Classification-with-Neural-Networks)  
+- [🍄 Mushroom Classification with Neural Networks]([https://github.com/lozanogangelicads/Mushroom-Classification-with-Neural-Networks](https://github.com/lozanogangelicads/Mushroom-Classification-with-Neural-Networks-))  
   Built a deep learning classifier using PCA and TensorFlow to predict mushroom edibility. Achieved 98%+ accuracy with strong visualization and evaluation.
 
 - [🐧 PCA + t-SNE on Palmer Penguins](https://github.com/lozanogangelicads/pca-tsne-penguins)  
