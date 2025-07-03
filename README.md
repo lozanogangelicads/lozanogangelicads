@@ -2,7 +2,7 @@
 
 🎓 MS in Data Science | 💼 Business Consultant | 📍 Based in Connecticut, USA  
 💡 Passionate about machine learning, health data analytics, and ethical AI  
-🌎 Bilingual: English & Spanish | U.S. Citizen 
+🌎 Bilingual: English & Spanish | U.S. Citizen
 
 ---
 
@@ -19,6 +19,9 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 
 - [🐧 PCA + t-SNE on Palmer Penguins](https://github.com/lozanogangelicads/pca-tsne-penguins)  
   Applied dimensionality reduction techniques to visualize and cluster penguin species data using PCA and t-SNE.
+
+- [🧠 CNN Image Classifier (CIFAR-10)](https://github.com/lozanogangelicads/cnn-image-classifier)  
+  Trained a convolutional neural network using transfer learning on CIFAR-10 dataset to classify 10 object categories, including vehicles and animals.
 
 - [🧑‍💻 Face Recognition using CNN + VGGFace](https://github.com/lozanogangelicads/face-recognition-cnn)  
   Face identification system using transfer learning with ResNet50 (VGGFace) and image embeddings. Includes CNN training, MTCNN face detection, and prediction filtering.
@@ -55,5 +58,3 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 🔗 [LinkedIn](https://www.linkedin.com/in/angelica-lozanogomez-ds)  
 📧 angelica.lozanogomez.ds@gmail.com  
 🔗 [GitHub](https://github.com/lozanogangelicads)
-
-
