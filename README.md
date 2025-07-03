@@ -2,7 +2,7 @@
 
 🎓 MS in Data Science | 💼 Business Consultant | 📍 Based in Connecticut, USA  
 💡 Passionate about machine learning, health data analytics, and ethical AI  
-🌎 Bilingual: English & Spanish | U.S. Citizen originally from Cali, Colombia
+🌎 Bilingual: English & Spanish | U.S. Citizen 
 
 ---
 
