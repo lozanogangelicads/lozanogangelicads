@@ -26,7 +26,7 @@ I’m a data scientist with a strong foundation in statistical modeling, machine
 - [🧑‍💻 Face Recognition using CNN + VGGFace](https://github.com/lozanogangelicads/face-recognition-cnn)  
   Face identification system using transfer learning with ResNet50 (VGGFace) and image embeddings. Includes CNN training, MTCNN face detection, and prediction filtering.
 
-- [🧬 Breast Cancer Prediction (**In Progress**)](https://github.com/lozanogangelicads/breast-cancer-prediction)  
+- [🧬 Breast Cancer Prediction ](https://github.com/lozanogangelicads/breast-cancer-prediction)  
   Rebuilding a model from my HarvardX coursework using logistic regression and random forests to classify breast cancer (benign vs malignant) from clinical data. Implements PCA, scaling, and model tuning in R with `dslabs`.
 
 - 🧠 **Large Language Model NLP Projects**
